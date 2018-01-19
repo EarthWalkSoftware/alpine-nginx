@@ -16,9 +16,9 @@ This release is **NOT** based upon the _stable_ branch of **NGINX**.  It is base
 
 The **earthwalksoftware/alpine-nginx** docker image is **NOT** an official release of **NGINX**.  
   
-The **official release** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at  https://github.com/nginxinc/docker-nginx  
+- The **official release** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at  https://github.com/nginxinc/docker-nginx  
   
-The **official build** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location  https://hub.docker.com/_/nginx/  
+- The **official build** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location  https://hub.docker.com/_/nginx/  
 
 ----
 
