@@ -88,6 +88,11 @@ A copy of the License is available inside the running container as a text file i
   </thead>
   <tbody>
     <tr>
+      <td>edge</td>
+      <td>edge</td>
+      <td>1.13.8</td>
+    </tr>
+    <tr>
       <td>latest</td>
       <td>3.7</td>
       <td>1.13.8</td>
