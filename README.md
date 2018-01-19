@@ -1,14 +1,14 @@
 # EarthWalkSoftware/alpine-nginx  
 
-The **earthwalksoftware/alpine-nginx** pre-built Docker image is available from [earthwalksoftware/alpine-nginx](https://hub.docker.com/r/earthwalksoftware/alpine-nginx/) at the EarthWalk Software presence on Docker Hub.
+The **earthwalksoftware/alpine-nginx** docker image is based on the latest _NGINX_ mainline version (_edge_) in an  _Alpine Linux_ edge docker image.  
 
-The **earthwalksoftware/alpine-nginx** docker image is based on the _NGINX version 1.13.8_ mainline (_edge_) in an  _Alpine Linux 3.7_ docker image (originally targeted at the _Alpine Linux 3.5_ docker image).  
+The **earthwalksoftware/alpine-nginx** pre-built Docker image is available from [earthwalksoftware/alpine-nginx](https://hub.docker.com/r/earthwalksoftware/alpine-nginx/) at the EarthWalk Software presence on Docker Hub.
 
 ----
 
 #### Not A Stable Branch ####
  
-This release is **NOT** based upon the _stable_ branch of **NGINX**.  Currently, there is no stable release of either version _1.12_ or version _1.13_ for _Alpine Linux_.  However, a docker container based upon **NGINX** _mainline 1.13.7_ in an _Alpine Linux 3.6_ docker container has been in use for several months.
+This release is **NOT** based upon the _stable_ branch of **NGINX**.  It is based on the very latest, **unstable** (a.k.a. _Bleeding Edge_) releases of both **NGINX** and **Alpine Linux**.
 
 ----  
 
@@ -22,7 +22,7 @@ The **official build** of **NGINX** is available from [NGINX, Inc.](https://gith
 
 ----
 
-#### So What Is It? ####  
+#### The Bleeding Edge ####  
 
 As stated above, the **EarthWalkSoftware/alpine-nginx** web server is the **NGINX version 1.13.8** mainline (__edge__) docker source in an  __Alpine Linux 3.7__ docker image.  This repository contains only the mainline **version 1.13.8 Alpine Linux NGINX** code.
 
