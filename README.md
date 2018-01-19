@@ -16,11 +16,9 @@ This release is **NOT** based upon the _stable_ branch of **NGINX**.  Currently,
 
 The **earthwalksoftware/alpine-nginx** docker image is **NOT** an official release of **NGINX**.  
   
-The **official release** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location:  
-  https://github.com/nginxinc/docker-nginx  
+The **official release** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at  https://github.com/nginxinc/docker-nginx  
   
-The **official build** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location:  
-  https://hub.docker.com/_/nginx/  
+The **official build** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location  https://hub.docker.com/_/nginx/  
 
 ----
 
@@ -34,9 +32,7 @@ Why?  **NGINX** in Alpine Linux is a very small image, under 18 MB, yet is power
 
 #### Running NGINX ####  
 
-General usage information for the **NGINX** image is available from the **NGINX** docker site:  
-
-  https://hub.docker.com/_/nginx/  
+General usage information for the **NGINX** image is available from the **NGINX** docker site:  https://hub.docker.com/_/nginx/  
 
 Note: When using the instructions, replace the container name **nginx** with **earthwalksoftware/alpine-nginx**
 
@@ -72,12 +68,8 @@ To see a unique use of the **alpine-nginx** server, visit this article on the Ea
 
 #### License ####  
 
-The **EarthWalkSoftware/alpine-nginx** is controlled by the **NGINX License**, available at the following location  
+The **EarthWalkSoftware/alpine-nginx** is controlled by the **NGINX License**, available at https://hub.docker.com/_/nginx/  
 
-  https://hub.docker.com/_/nginx/  
-
-A copy of the License is available inside the running container as a text file in the root directory: **/LICENSE**. and in the docker source on GitHub:
-
-https://github.com/EarthWalkSoftware/alpine-nginx
+A copy of the License is available inside the running container as a text file in the root directory: **/LICENSE**. and in the docker source on GitHub: https://github.com/EarthWalkSoftware/alpine-nginx
 
 ----  
