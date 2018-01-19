@@ -78,6 +78,8 @@ A copy of the License is available inside the running container as a text file i
 
 ---- 
 
+## TAGS ##
+
 <table>
   <thead>
     <tr>
