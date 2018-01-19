@@ -1,4 +1,4 @@
-# earthwalksoftware/alpine-nginx #  
+# EarthWalkSoftware/alpine-nginx #  
 
 The **earthwalksoftware/alpine-nginx** docker image is based on the _NGINX version 1.13.8_ mainline (_edge_) in an  _Alpine Linux 3.7_ docker image (originally targeted at the _Alpine Linux 3.5_ docker image).  
 
@@ -24,7 +24,7 @@ The **official build** of **NGINX** is available from [NGINX, Inc.](https://gith
 
 #### So What Is It? ####  
 
-As stated above, the **earthwalksoftware/alpine-nginx** web server is the **NGINX version 1.13.8** mainline (__edge__) docker source in an  __Alpine Linux 3.7__ docker image.  This repository contains only the mainline **version 1.13.8 Alpine Linux NGINX** code.
+As stated above, the **EarthWalkSoftware/alpine-nginx** web server is the **NGINX version 1.13.8** mainline (__edge__) docker source in an  __Alpine Linux 3.7__ docker image.  This repository contains only the mainline **version 1.13.8 Alpine Linux NGINX** code.
 
 Why?  **NGINX** in Alpine Linux is a very small image, under 18 MB, yet is powerful enough to easily serve static web sites.  It's size and versatility make it easy to view **NGINX** as an __HTTP plug-in__ solution for many complex network service problems.
 
@@ -72,7 +72,7 @@ To see a unique use of the alpine-nginx server, visit this article on the EarthW
 
 #### License ####  
 
-The **earthwalksoftware/alpine-nginx** is controlled by the **NGINX License**, available at the following location  
+The **EarthWalkSoftware/alpine-nginx** is controlled by the **NGINX License**, available at the following location  
 
   https://hub.docker.com/_/nginx/  
 
