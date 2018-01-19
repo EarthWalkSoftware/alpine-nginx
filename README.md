@@ -24,21 +24,25 @@ The **official build** of **NGINX** is available from [NGINX, Inc.](https://gith
 
 #### The Bleeding Edge ####  
 
-As stated above, the **EarthWalkSoftware/alpine-nginx** web server is the **NGINX version 1.13.8** mainline (__edge__) docker source in an  __Alpine Linux 3.7__ docker image.  This repository contains only the mainline **version 1.13.8 Alpine Linux NGINX** code.
+The **earthwalksoftware/alpine-nginx** is **very** experimental.  It is based upon the latest **NGINX** mainline version docker source in the latest (edge)  __Alpine Linux__ docker image.  
 
-Why?  **NGINX** in Alpine Linux is a very small image, under 18 MB, yet is powerful enough to easily serve static web sites.  It's size and versatility make it easy to view **NGINX** as an __HTTP plug-in__ solution for many complex network service problems.
+This repository contains only the latest **mainline version of Alpine Linux NGINX** code.
+
+Why?  **NGINX** in **Alpine Linux** is a very small image, under 18 MB, yet is powerful enough to easily serve static web sites.  
+
+It's fun finding new uses for this little server.  Check out this twisted use: [pkgcache - a simple "plug in" for Docker build](https://github.com/EarthWalkSoftware/alpine-nginx/wiki/pkgcache----a-simple-%22plug-in%22-for-Docker-build)  
 
 ----  
 
 #### Running NGINX ####  
 
-General usage information for the **NGINX** image is available from the **NGINX** docker site:  https://hub.docker.com/_/nginx/  
+Official documentation for the **NGINX** image is available from [NGINX, Inc. on Docker Hub](https://hub.docker.com/_/nginx/).  
 
-Note: When using the instructions, replace the container name **nginx** with **earthwalksoftware/alpine-nginx**
+**Note**: When using the instructions, replace the container name **nginx** with **earthwalksoftware/alpine-nginx**
 
 ------
 ### The name's too long
-Change the name to a shorter name, such as **alpine-nginx**.
+So, give it a shorter name, such as **alpine-nginx**.
 
 Pull the image down to the local docker host:  
 
@@ -62,7 +66,7 @@ The **alpine-nginx:latest** image is now located on the local docker host.  The 
 
 #### A unique use for the alpine-nginx server  
 
-To see a unique use of the **alpine-nginx** server, visit this article on the EarthWalk Softare alpine-nginx wiki: [pkgcache - a simple "plug in" for Docker build](https://github.com/EarthWalkSoftware/alpine-nginx/wiki/pkgcache----a-simple-%22plug-in%22-for-Docker-build)
+To see a unique use of the **alpine-nginx** server, visit this article on the _EarthWalk Softare alpine-nginx wiki_: [pkgcache - a simple "plug in" for Docker build](https://github.com/EarthWalkSoftware/alpine-nginx/wiki/pkgcache----a-simple-%22plug-in%22-for-Docker-build)
 
 ----  
 
