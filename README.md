@@ -22,7 +22,7 @@ The **earthwalksoftware/alpine-nginx** docker image is **NOT** an official relea
 
 ----
 
-#### The Bleeding Edge ####  
+### The Bleeding Edge ###  
 
 The **earthwalksoftware/alpine-nginx** is **very** experimental.  It is based upon the latest **NGINX** mainline version docker source in the latest (edge)  __Alpine Linux__ docker image.  
 
