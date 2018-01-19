@@ -1,4 +1,4 @@
-### earthwalksoftware/alpine-nginx ###  
+# earthwalksoftware/alpine-nginx #  
 
 The **earthwalksoftware/alpine-nginx** docker image is based on the _NGINX version 1.13.8_ mainline (_edge_) in an  _Alpine Linux 3.7_ docker image (originally targeted at the _Alpine Linux 3.5_ docker image).  
 
@@ -16,6 +16,7 @@ The **earthwalksoftware/alpine-nginx** docker image is **NOT** an official relea
   
 The **official release** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location:  
   https://github.com/nginxinc/docker-nginx  
+  
 The **official build** of **NGINX** is available from [NGINX, Inc.](https://github.com/nginxinc) at the following location:  
   https://hub.docker.com/_/nginx/  
 
