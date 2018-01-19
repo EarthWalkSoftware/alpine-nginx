@@ -76,4 +76,26 @@ The **EarthWalkSoftware/alpine-nginx** is controlled by the **NGINX License**, a
 
 A copy of the License is available inside the running container as a text file in the root directory: **/LICENSE**. and in the docker source on GitHub: https://github.com/EarthWalkSoftware/alpine-nginx
 
-----  
+---- 
+
+<table>
+  <thead>
+    <tr>
+      <th>Tag</th>
+      <th>Alpine</th>
+      <th>NGINX</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>latest</td>
+      <td>3.7</td>
+      <td>1.13.8</td>
+    </tr>
+    <tr>
+      <td>1.0.1</td>
+      <td>3.7</td>
+      <td>1.13.8</td>
+    </tr>
+  </tbody>
+</table>
