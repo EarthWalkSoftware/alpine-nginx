@@ -78,7 +78,7 @@ A copy of the License is available inside the running container as a text file i
 
 ---- 
 
-## TAGS ##
+## TAGS
 
 <table>
   <thead>
@@ -89,6 +89,11 @@ A copy of the License is available inside the running container as a text file i
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>master</td>
+      <td>edge</td>
+      <td>1.13.8</td>
+    </tr>
     <tr>
       <td>edge</td>
       <td>edge</td>
