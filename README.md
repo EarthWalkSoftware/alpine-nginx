@@ -1,4 +1,6 @@
-# EarthWalkSoftware/alpine-nginx #  
+# EarthWalkSoftware/alpine-nginx  
+
+The **earthwalksoftware/alpine-nginx** pre-built Docker image is available from [earthwalksoftware/alpine-nginx](https://hub.docker.com/r/earthwalksoftware/alpine-nginx/) at the EarthWalk Software presence on Docker Hub.
 
 The **earthwalksoftware/alpine-nginx** docker image is based on the _NGINX version 1.13.8_ mainline (_edge_) in an  _Alpine Linux 3.7_ docker image (originally targeted at the _Alpine Linux 3.5_ docker image).  
 
@@ -42,15 +44,15 @@ Note: When using the instructions, replace the container name **nginx** with **e
 ### The name's too long
 Change the name to a shorter name, such as _alpine-nginx_.
 
-- Pull the image down to the local docker host:  
+Pull the image down to the local docker host:  
 
     docker pull earthwalksoftware/alpine-nginx:latest  
 
-- Tag the new image with a shorter name (e.g. - *alpine-nginx:latest*):  
+Tag the new image with a shorter name (e.g. - *alpine-nginx:latest*):  
 
     docker tag earthwalksoftware/alpine-nginx:latest alpine-nginx:latest  
 
-- Remove the original image tag:  
+Remove the original image tag:  
 
     docker rmi earthwalksoftware/alpine-nginx:latest  
 
