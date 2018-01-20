@@ -6,7 +6,7 @@ The **earthwalksoftware/alpine-nginx** pre-built Docker image is available from 
 
 ----
 
-#### Learn more ####
- 
-Learn more about **EarthWalkSoftware/alpine-nginx** at the [EarthWalk Software Alpine-NGINX Wiki](https://github.com/EarthWalkSoftware/alpine-nginx/wiki).
+**Learn more** about **EarthWalkSoftware/alpine-nginx** at  
+
+   [EarthWalk Software Alpine-NGINX Wiki](https://github.com/EarthWalkSoftware/alpine-nginx/wiki).
 
