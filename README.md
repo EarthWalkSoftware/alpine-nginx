@@ -16,4 +16,4 @@ The **earthwalksoftware/alpine-nginx** pre-built Docker image is available from 
 
 The **earthwalksoftware/alpine-nginx** is controlled by the **NGINX License**, available at https://hub.docker.com/_/nginx/  
 
-A copy of the License is available inside the running container as a text file in the root directory: **/LICENSE**. and in the docker source on GitHub at https://github.com/EarthWalkSoftware/alpine-nginx/wiki.
+A copy of the License is available inside the running container as a text file **LICENSE** in the root directory, in the docker source on [GitHub](https://github.com/EarthWalkSoftware/alpine-nginx), and on the [EarthWalk Software Alpine-NGINX Wiki](https://github.com/EarthWalkSoftware/alpine-nginx/wiki/NGINX-License).
